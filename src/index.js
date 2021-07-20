@@ -1,17 +1,104 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import "./index.css"
+
+
+
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+  <div className="card">
+    <table className="table">
+      <tr>
+        <td className="tra" > </td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+      </tr>
+      <tr>
+        <td className="trap" ></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+
+      </tr>
+      <tr>
+        <td className="tra" ></td>
+        <td className="tra" ></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        
+
+      </tr>
+      <tr>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+
+      </tr>
+      <tr>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+
+      </tr>
+      <tr>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+
+      </tr>
+      <tr>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+        <td className="tra"></td>
+
+      </tr>
+      <tr>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+        <td className="trap"></td>
+
+      </tr>
+    </table>
+  </div>
+  ,document.getElementById("root")
+);
